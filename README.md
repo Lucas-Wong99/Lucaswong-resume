@@ -1,1 +1,1 @@
-# Lucaswong-resume
+# https://lucaswong-resume.netlify.com/
